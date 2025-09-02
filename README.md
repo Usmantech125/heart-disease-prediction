@@ -36,10 +36,4 @@ The best model is automatically selected based on accuracy.
 
 ---
 
-## 🛠️ Installation
-Clone this repository and install required libraries:
 
-```bash
-git clone https://github.com/your-username/heart-disease-prediction.git
-cd heart-disease-prediction
-pip install -r requirements.txt
